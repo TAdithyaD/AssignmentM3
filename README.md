@@ -1,7 +1,7 @@
 # AssignmentM3
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 3 Coding Assignment, completed.
 
-link:
+link:https://tadithyad.github.io/AssignmentM3/
 
 Time to complete: About 1 hour or less.
 
